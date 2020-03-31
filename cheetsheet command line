@@ -501,3 +501,6 @@ https://www.exploit-db.com/exploits/18411/
 Dirty Cow 2.6.22 < 3.9 (confirm with linux-exploit-suggester-upto-date.sh)
 https://github.com/FireFart/dirtycow/blob/master/dirty.c
 https://www.exploit-db.com/exploits/40839/ 
+
+
+https://northern-apt.blogspot.com/2019/09/how-to-pass-oscp.html
